@@ -10,7 +10,7 @@ export class Layout extends Component {
     return (
       <div>
         <NavMenu />
-        {/* Temporarily disabled, to be fixed*/}
+        {/* Temporarily disabled*/}
         {/* <SideDrawer/> */}
         <Container>{this.props.children}</Container>
       </div>

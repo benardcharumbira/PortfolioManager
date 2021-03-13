@@ -39,7 +39,9 @@ namespace PortfolioManager
                          options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddScoped<ICompanyBusinessLogic, CompanyBusinessLogic>();
+            services.AddScoped<ISectorBusinessLogic, SectorBusinessLogic>();
             services.AddScoped<ICompanyService, CompanyService>();
+            services.AddScoped<ISectorService, SectorService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
