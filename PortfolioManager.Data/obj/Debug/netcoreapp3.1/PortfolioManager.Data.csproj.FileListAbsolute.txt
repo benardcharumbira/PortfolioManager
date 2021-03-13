@@ -22,3 +22,15 @@ C:\Users\benar\Downloads\PortfolioManager\PortfolioManager\PortfolioManager.Data
 C:\Users\benar\Downloads\PortfolioManager\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.dll
 C:\Users\benar\Downloads\PortfolioManager\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.pdb
 C:\Users\benar\Downloads\PortfolioManager\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.genruntimeconfig.cache
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\bin\Debug\netcoreapp3.1\PortfolioManager.Data.deps.json
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\bin\Debug\netcoreapp3.1\PortfolioManager.Data.runtimeconfig.json
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\bin\Debug\netcoreapp3.1\PortfolioManager.Data.runtimeconfig.dev.json
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\bin\Debug\netcoreapp3.1\PortfolioManager.Data.dll
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\bin\Debug\netcoreapp3.1\PortfolioManager.Data.pdb
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.csprojAssemblyReference.cache
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.AssemblyInfoInputs.cache
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.AssemblyInfo.cs
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.dll
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.pdb
+C:\Users\benar\Desktop\init\coding\DEVPROJECTS\asp.net-core\PortfolioManager\PortfolioManager.Data\obj\Debug\netcoreapp3.1\PortfolioManager.Data.genruntimeconfig.cache

@@ -5805,11 +5805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\benar\\Downloads\\PortfolioManager\\PortfolioManager\\PortfolioManager.Data\\PortfolioManager.Data.csproj",
+      "projectUniqueName": "C:\\Users\\benar\\Desktop\\init\\coding\\DEVPROJECTS\\asp.net-core\\PortfolioManager\\PortfolioManager.Data\\PortfolioManager.Data.csproj",
       "projectName": "PortfolioManager.Data",
-      "projectPath": "C:\\Users\\benar\\Downloads\\PortfolioManager\\PortfolioManager\\PortfolioManager.Data\\PortfolioManager.Data.csproj",
+      "projectPath": "C:\\Users\\benar\\Desktop\\init\\coding\\DEVPROJECTS\\asp.net-core\\PortfolioManager\\PortfolioManager.Data\\PortfolioManager.Data.csproj",
       "packagesPath": "C:\\Users\\benar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\benar\\Downloads\\PortfolioManager\\PortfolioManager\\PortfolioManager.Data\\obj\\",
+      "outputPath": "C:\\Users\\benar\\Desktop\\init\\coding\\DEVPROJECTS\\asp.net-core\\PortfolioManager\\PortfolioManager.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

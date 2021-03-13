@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWHHsrxjaXvORx+KJhW2QKUdcgmJDGgFY1MkAVjPJJ269XX7g7bP6IVb4NXbVRC1C+idgs3w3oZ2BO2p57fnYg==",
+  "dgSpecHash": "iAqinSCt1z9R69K+GkV9+1hFEfxTVCARNbBglGLp1vmuKyjsk9CjwfZdgYGD9CUA2M54DzevLEzR7i4Ptg3fPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\benar\\Downloads\\PortfolioManager\\PortfolioManager\\PortfolioManager.Data\\PortfolioManager.Data.csproj",
+  "projectFilePath": "C:\\Users\\benar\\Desktop\\init\\coding\\DEVPROJECTS\\asp.net-core\\PortfolioManager\\PortfolioManager.Data\\PortfolioManager.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\benar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\benar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

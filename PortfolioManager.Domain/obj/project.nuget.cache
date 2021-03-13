@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RHtl76uHqTlLLYmEteF/pCpvofdm298eqnQjw4kmxZObUVZ7HdnVCiIrf3ZmSf/N8wqcdhw5zZ88y0IPCSgu3w==",
+  "dgSpecHash": "67ORuFQvolMEdRec9sBQVSnU960vckQN4J8isimmh0MZXu7plcvXxCI04T20YJkdOvi5l7ru3OsXBJq8KShnvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\benar\\Downloads\\PortfolioManager\\PortfolioManager\\PortfolioManager.Domain\\PortfolioManager.Domain.csproj",
+  "projectFilePath": "C:\\Users\\benar\\Desktop\\init\\coding\\DEVPROJECTS\\asp.net-core\\PortfolioManager\\PortfolioManager.Domain\\PortfolioManager.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\benar\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
