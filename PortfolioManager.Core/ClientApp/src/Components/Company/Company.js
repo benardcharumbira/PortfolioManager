@@ -18,7 +18,7 @@ const Company = () => {
     <div>
       {data.length ? (
         <div>
-          <h1 className="text-center mt-3 mb-3">Indian Stock Market</h1>
+          <h1 className="text-center mt-3 mb-3">Listed Companies</h1>
           <DataTable data={data} />
         </div>
       ) : (
